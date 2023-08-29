@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/student/test" added="2023-08-23T21:03:37.966631Z" modified="2023-08-23T21:03:37.966635Z" visited="2023-08-23T21:03:37.966632Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-08-23T21:03:37.966633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/ud123-udacity-terminal-config.zip" added="2023-08-24T18:32:49.300773Z" modified="2023-08-24T18:32:49.300776Z" visited="2023-08-24T18:32:49.300774Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-08-24T18:32:49.300775Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.cache/.fr-mqKEXy/udacity-terminal-config/bash_profile" added="2023-08-24T18:33:26.268074Z" modified="2023-08-24T18:33:41.198490Z" visited="2023-08-24T18:33:26.268074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-08-24T18:33:41.198488Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.cache/.fr-VfTQ9B/udacity-terminal-config/git-completion.bash" added="2023-08-24T18:34:41.936215Z" modified="2023-08-24T18:34:41.936219Z" visited="2023-08-24T18:34:41.936216Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-08-24T18:34:41.936217Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/archive/diabetes.csv" added="2023-08-24T21:18:20.484244Z" modified="2023-08-24T21:18:20.500356Z" visited="2023-08-24T21:18:20.484245Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-08-24T21:18:20.500353Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

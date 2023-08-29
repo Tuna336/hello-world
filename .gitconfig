@@ -1,0 +1,9 @@
+[core]
+	editor = nano
+[color]
+	ui = auto
+[merge]
+	conflictstyle = diff3
+[user]
+	email = tina.luu@mrjaffesclass.com
+	name = Tina Luu
